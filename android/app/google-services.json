@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654251589612",
+    "project_id": "fir-2071a",
+    "storage_bucket": "fir-2071a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654251589612:android:f75b85fa599b3e331b4ac9",
+        "android_client_info": {
+          "package_name": "com.example.podcast1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADU10WTe7jutqBwnqk4-8cD4CDB5scQxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
